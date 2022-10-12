@@ -1,0 +1,2 @@
+run = "java -jar minecraft/TLauncher-2.82.jar"
+audio = true #adds audio
